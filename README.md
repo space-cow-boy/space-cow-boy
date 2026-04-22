@@ -15,9 +15,5 @@ I'm a 2nd-year B.Tech Computer Science student at Graphic Era Hill University, m
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=space-cow-boy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=space-cow-boy&icon=0&color=0)](https://visitcount.itsvg.in)
 
